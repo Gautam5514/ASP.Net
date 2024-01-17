@@ -1,0 +1,59 @@
+F:\asp\registeration form\registeration form\bin\registeration form.dll.config
+F:\asp\registeration form\registeration form\bin\registeration form.dll
+F:\asp\registeration form\registeration form\bin\registeration form.pdb
+F:\asp\registeration form\registeration form\bin\roslyn\csc.exe
+F:\asp\registeration form\registeration form\bin\roslyn\csc.exe.config
+F:\asp\registeration form\registeration form\bin\roslyn\csc.rsp
+F:\asp\registeration form\registeration form\bin\roslyn\csi.exe
+F:\asp\registeration form\registeration form\bin\roslyn\csi.exe.config
+F:\asp\registeration form\registeration form\bin\roslyn\csi.rsp
+F:\asp\registeration form\registeration form\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\asp\registeration form\registeration form\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\asp\registeration form\registeration form\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\asp\registeration form\registeration form\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\asp\registeration form\registeration form\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\asp\registeration form\registeration form\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\asp\registeration form\registeration form\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\asp\registeration form\registeration form\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\asp\registeration form\registeration form\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\asp\registeration form\registeration form\bin\roslyn\Microsoft.Managed.Core.targets
+F:\asp\registeration form\registeration form\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\asp\registeration form\registeration form\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\asp\registeration form\registeration form\bin\roslyn\System.AppContext.dll
+F:\asp\registeration form\registeration form\bin\roslyn\System.Collections.Immutable.dll
+F:\asp\registeration form\registeration form\bin\roslyn\System.Console.dll
+F:\asp\registeration form\registeration form\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\asp\registeration form\registeration form\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\asp\registeration form\registeration form\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\asp\registeration form\registeration form\bin\roslyn\System.Globalization.Calendars.dll
+F:\asp\registeration form\registeration form\bin\roslyn\System.IO.Compression.dll
+F:\asp\registeration form\registeration form\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\asp\registeration form\registeration form\bin\roslyn\System.IO.FileSystem.dll
+F:\asp\registeration form\registeration form\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\asp\registeration form\registeration form\bin\roslyn\System.Net.Http.dll
+F:\asp\registeration form\registeration form\bin\roslyn\System.Net.Sockets.dll
+F:\asp\registeration form\registeration form\bin\roslyn\System.Reflection.Metadata.dll
+F:\asp\registeration form\registeration form\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\asp\registeration form\registeration form\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\asp\registeration form\registeration form\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\asp\registeration form\registeration form\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\asp\registeration form\registeration form\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\asp\registeration form\registeration form\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\asp\registeration form\registeration form\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\asp\registeration form\registeration form\bin\roslyn\System.ValueTuple.dll
+F:\asp\registeration form\registeration form\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\asp\registeration form\registeration form\bin\roslyn\System.Xml.XmlDocument.dll
+F:\asp\registeration form\registeration form\bin\roslyn\System.Xml.XPath.dll
+F:\asp\registeration form\registeration form\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\asp\registeration form\registeration form\bin\roslyn\vbc.exe
+F:\asp\registeration form\registeration form\bin\roslyn\vbc.exe.config
+F:\asp\registeration form\registeration form\bin\roslyn\vbc.rsp
+F:\asp\registeration form\registeration form\bin\roslyn\VBCSCompiler.exe
+F:\asp\registeration form\registeration form\bin\roslyn\VBCSCompiler.exe.config
+F:\asp\registeration form\registeration form\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\asp\registeration form\registeration form\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\asp\registeration form\registeration form\obj\Debug\registeration form.csproj.AssemblyReference.cache
+F:\asp\registeration form\registeration form\obj\Debug\registeration form.csproj.CoreCompileInputs.cache
+F:\asp\registeration form\registeration form\obj\Debug\registeration form.csproj.CopyComplete
+F:\asp\registeration form\registeration form\obj\Debug\registeration form.dll
+F:\asp\registeration form\registeration form\obj\Debug\registeration form.pdb
